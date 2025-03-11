@@ -1,4 +1,4 @@
-README: Marxan Data and Results
+README 2: Marxan Data and Results
 
 1. Introduction
 This repository contains the input data, parameter files, and results used for developing and validating the Boundary Length Modifier (BLM) and Species Penalty Factor (SPF) in Marxan. The data were processed and analyzed as part of the study titled "Spatial planning model for optimizing conservation priorities for local community utilization on Arefi Island in the Raja Ampat Marine Protected Area (MPA) Southwest Papua, Indonesia".
